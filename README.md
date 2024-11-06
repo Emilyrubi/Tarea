@@ -31,7 +31,7 @@ print(especies_lago)
 | Ajolote | Lago    | 30     | 150  |
 
 
-# Generación de gráficos - Reto 2
+# Generación de gráficos - 2
 * Para este reto, usaremos el dataset iris. A continuación, crearemos un gráfico de dispersión entre `Sepal.Length` y `Sepal.Width` con colores personalizados.
 
 ```r
@@ -51,7 +51,7 @@ ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width, color = Species)) +
 ![Emisepalo](https://github.com/user-attachments/assets/5c60349e-0c79-411d-b2c0-94696086c238)
 
 
-# Generación de gráficos de barras - Reto 5
+# Generación de gráficos de barras - 5 
 * Visualización de ventas mensuales con colores nuevos.
 
 ```r
